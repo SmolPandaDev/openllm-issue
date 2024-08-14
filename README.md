@@ -3,10 +3,10 @@
 ## Getting Started
 We use a virtual environment to do all our development in, this ensures that we don't import modules that accidentally conflict with other project work.
 
-`python3 -m venv venv` - this will create your virtual environment inside a venv folder
-`source venv/bin/activate` - this will activate your virtual env
-`python3 -m pip install --upgrade pip`
-`python3 -m pip install -r requirements.txt`
+1. `python3 -m venv venv` - this will create your virtual environment inside a venv folder
+1. `source venv/bin/activate` - this will activate your virtual env
+1. `python3 -m pip install --upgrade pip`
+1. `python3 -m pip install -r requirements.txt`
 
 
 ## Start OpenLLM locally
